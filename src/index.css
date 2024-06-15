@@ -70,12 +70,11 @@ button:focus-visible {
   width: 7rem;
 }
 
-.container-header{
-  margin-bottom: 2rem;
-}
 .navigation{
   display: flex;
   padding: 0 4.5rem;
+  align-items: center;
+  margin: 2rem 0;
 }
 .navigation-menu{
   display: flex;
